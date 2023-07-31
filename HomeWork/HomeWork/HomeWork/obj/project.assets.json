@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Extentions\\ClassWork27.07.23\\ClassWork27.07.23\\ClassWork27.07.23.csproj",
-      "projectName": "ClassWork27.07.23",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\Extentions\\ClassWork27.07.23\\ClassWork27.07.23\\ClassWork27.07.23.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\HomeWork\\HomeWork\\HomeWork\\HomeWork.csproj",
+      "projectName": "HomeWork",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\HomeWork\\HomeWork\\HomeWork\\HomeWork.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\Extentions\\ClassWork27.07.23\\ClassWork27.07.23\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\HomeWork\\HomeWork\\HomeWork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
